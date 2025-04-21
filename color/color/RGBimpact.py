@@ -11,6 +11,6 @@ def impact():
    impact4 = 'element17 % element18 % element19 % element20'
 def impact():  
    impact5 = 'impact0 * impact1' + 'impact2 * impact3'
-   impact6 = 'impact1 - impact2' + 'impact3 - impact4'
-   impact7 = 'impact2 / impact3' + 'impact4 / impact0'
-   impact8 = 'impact1 % impact2' + 'impact3 % impact4'
+   impact6 = 'impact1 * impact2' + 'impact3 * impact4'
+   impact7 = 'impact2 * impact3' + 'impact4 * impact0'
+   impact8 = 'impact1 * impact3' + 'impact2 * impact4'
