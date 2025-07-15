@@ -23,7 +23,7 @@ dimPyramid = square - antisquare
 
 def SUM():
     [DET/TRI + TRI/DET =='DETTRI' +'TRIDET']
-    ['DETTRI' +ONESquare == 'SquareONE' + 'TRIDET']
+    ['DETTRI' + ONESquare == 'SquareONE' + 'TRIDET']
     [Pyramid == oppoPyramid + dimPyramid]
     
 
